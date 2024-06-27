@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: Spearmen",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/Spearmen/Spearmen.csproj",
+            "launchConfigurationId": "TargetFramework=;Spearmen"
+        }
+    ]
+}
