@@ -1,0 +1,14 @@
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Spros/obj/Debug/net8.0/Spros.GeneratedMSBuildEditorConfig.editorconfig
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Spros/obj/Debug/net8.0/Spros.AssemblyInfoInputs.cache
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Spros/obj/Debug/net8.0/Spros.AssemblyInfo.cs
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Spros/obj/Debug/net8.0/Spros.csproj.CoreCompileInputs.cache
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Spros/bin/Debug/net8.0/Spros
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Spros/bin/Debug/net8.0/Spros.deps.json
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Spros/bin/Debug/net8.0/Spros.runtimeconfig.json
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Spros/bin/Debug/net8.0/Spros.dll
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Spros/bin/Debug/net8.0/Spros.pdb
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Spros/obj/Debug/net8.0/Spros.dll
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Spros/obj/Debug/net8.0/refint/Spros.dll
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Spros/obj/Debug/net8.0/Spros.pdb
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Spros/obj/Debug/net8.0/Spros.genruntimeconfig.cache
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Spros/obj/Debug/net8.0/ref/Spros.dll

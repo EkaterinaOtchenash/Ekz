@@ -1,0 +1,14 @@
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/LineCor/bin/Debug/net8.0/LineCor
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/LineCor/bin/Debug/net8.0/LineCor.deps.json
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/LineCor/bin/Debug/net8.0/LineCor.runtimeconfig.json
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/LineCor/bin/Debug/net8.0/LineCor.dll
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/LineCor/bin/Debug/net8.0/LineCor.pdb
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/LineCor/obj/Debug/net8.0/LineCor.GeneratedMSBuildEditorConfig.editorconfig
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/LineCor/obj/Debug/net8.0/LineCor.AssemblyInfoInputs.cache
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/LineCor/obj/Debug/net8.0/LineCor.AssemblyInfo.cs
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/LineCor/obj/Debug/net8.0/LineCor.csproj.CoreCompileInputs.cache
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/LineCor/obj/Debug/net8.0/LineCor.dll
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/LineCor/obj/Debug/net8.0/refint/LineCor.dll
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/LineCor/obj/Debug/net8.0/LineCor.pdb
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/LineCor/obj/Debug/net8.0/LineCor.genruntimeconfig.cache
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/LineCor/obj/Debug/net8.0/ref/LineCor.dll

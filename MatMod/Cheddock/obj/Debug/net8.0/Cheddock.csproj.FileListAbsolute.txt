@@ -1,0 +1,14 @@
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Cheddock/obj/Debug/net8.0/Cheddock.GeneratedMSBuildEditorConfig.editorconfig
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Cheddock/obj/Debug/net8.0/Cheddock.AssemblyInfoInputs.cache
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Cheddock/obj/Debug/net8.0/Cheddock.AssemblyInfo.cs
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Cheddock/obj/Debug/net8.0/Cheddock.csproj.CoreCompileInputs.cache
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Cheddock/bin/Debug/net8.0/Cheddock
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Cheddock/bin/Debug/net8.0/Cheddock.deps.json
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Cheddock/bin/Debug/net8.0/Cheddock.runtimeconfig.json
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Cheddock/bin/Debug/net8.0/Cheddock.dll
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Cheddock/bin/Debug/net8.0/Cheddock.pdb
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Cheddock/obj/Debug/net8.0/Cheddock.dll
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Cheddock/obj/Debug/net8.0/refint/Cheddock.dll
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Cheddock/obj/Debug/net8.0/Cheddock.pdb
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Cheddock/obj/Debug/net8.0/Cheddock.genruntimeconfig.cache
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Cheddock/obj/Debug/net8.0/ref/Cheddock.dll
