@@ -1,0 +1,15 @@
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/OptimalPriceCalculation/bin/Debug/net8.0/OptimalPriceCalculation
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/OptimalPriceCalculation/bin/Debug/net8.0/OptimalPriceCalculation.deps.json
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/OptimalPriceCalculation/bin/Debug/net8.0/OptimalPriceCalculation.runtimeconfig.json
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/OptimalPriceCalculation/bin/Debug/net8.0/OptimalPriceCalculation.dll
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/OptimalPriceCalculation/bin/Debug/net8.0/OptimalPriceCalculation.pdb
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/OptimalPriceCalculation/obj/Debug/net8.0/OptimalPriceCalculation.GeneratedMSBuildEditorConfig.editorconfig
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/OptimalPriceCalculation/obj/Debug/net8.0/OptimalPriceCalculation.AssemblyInfoInputs.cache
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/OptimalPriceCalculation/obj/Debug/net8.0/OptimalPriceCalculation.AssemblyInfo.cs
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/OptimalPriceCalculation/obj/Debug/net8.0/OptimalPriceCalculation.csproj.CoreCompileInputs.cache
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/OptimalPriceCalculation/obj/Debug/net8.0/OptimalPriceCalculation.sourcelink.json
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/OptimalPriceCalculation/obj/Debug/net8.0/OptimalPriceCalculation.dll
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/OptimalPriceCalculation/obj/Debug/net8.0/refint/OptimalPriceCalculation.dll
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/OptimalPriceCalculation/obj/Debug/net8.0/OptimalPriceCalculation.pdb
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/OptimalPriceCalculation/obj/Debug/net8.0/OptimalPriceCalculation.genruntimeconfig.cache
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/OptimalPriceCalculation/obj/Debug/net8.0/ref/OptimalPriceCalculation.dll

@@ -12,3 +12,4 @@
 /home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Spearmen/obj/Debug/net8.0/Spearmen.pdb
 /home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Spearmen/obj/Debug/net8.0/Spearmen.genruntimeconfig.cache
 /home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Spearmen/obj/Debug/net8.0/ref/Spearmen.dll
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Spearmen/obj/Debug/net8.0/Spearmen.sourcelink.json

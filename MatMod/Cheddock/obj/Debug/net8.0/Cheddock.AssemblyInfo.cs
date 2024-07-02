@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cheddock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9f3330241813b828289afcf0e0776428ab4b489")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cheddock")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cheddock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

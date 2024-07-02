@@ -12,3 +12,4 @@
 /home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Cheddock/obj/Debug/net8.0/Cheddock.pdb
 /home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Cheddock/obj/Debug/net8.0/Cheddock.genruntimeconfig.cache
 /home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Cheddock/obj/Debug/net8.0/ref/Cheddock.dll
+/home/ekaterina-zhabrova/Documents/Попытки/csharprojects/MatMod/Cheddock/obj/Debug/net8.0/Cheddock.sourcelink.json
